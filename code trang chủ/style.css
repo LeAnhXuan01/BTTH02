@@ -1,4 +1,4 @@
-/* css for header */
+
 .navbar{
     padding: 0;
 }
@@ -8,7 +8,7 @@
 }
 .container-fluid{
     padding: 0;
-
+}
 .box{
    height: 100px;
    width: 70%; 
